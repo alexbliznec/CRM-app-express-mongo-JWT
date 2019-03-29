@@ -1,0 +1,6 @@
+{
+    "port": 8888,
+    "mongoURI": "mongodb://alexBliznec:zapomnil1@ds229771.mlab.com:29771/koa-app",
+    "jwt": "secret-key"
+    
+}
